@@ -1,6 +1,6 @@
 <html>
   <h1> 
-    Pewgilism. 
+    Pewgilism.  
     <img src="https://img.shields.io/badge/liscense-MIT-blue?style=for-the-badge"/>
   </h1>
   <h3>
@@ -18,7 +18,8 @@
     <summary>
       <h2> Usage</h2>
     </summary>
-    <a href="https://phobiacide.github.io/pewgilism./">Click here</a> to be directed to a github pages deployment of this page.  
+    <a href="https://phobiacide.github.io/pewgilism./">Click here</a> to be directed to a live <a href="https://pages.github.com">github pages</a> 
+      demonstration deployment of this page.  
   </details>
   <br>
   <details>
