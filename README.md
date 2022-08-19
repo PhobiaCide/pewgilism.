@@ -2,6 +2,7 @@
   <h1> 
     Pewgilism.  
     <img src="https://img.shields.io/badge/liscense-MIT-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fraw.githubusercontent.com%2FPhobiaCide%2Fpewgilism.%2Fmain%2Findex.html"/>
   </h1>
   <h3>
     An Eve Online Alliance Information Page
@@ -11,7 +12,10 @@
     <summary>
       <h2> Description</h2>
     </summary>
-    <h3> Template Website using html, css, and javascript</h3>
+    <h3> Basic landing page made using:
+      * html
+      * css
+      * javascript</h3>
   </details>
   <br>
   <details>
