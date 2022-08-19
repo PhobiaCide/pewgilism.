@@ -18,5 +18,6 @@
     <a href="https://phobiacide.github.io/pewgilism./">Click here</a> for a  
   </details>
 
-![all](https://github.com/PhobiaCide/pewgilism./blob/main/pewgilismSS.jpg)
+
+<img src="https://github.com/PhobiaCide/pewgilism./blob/main/pewgilism.screenshot.jpg">
 
