@@ -3,9 +3,9 @@
     Pewgilism. 
     <img src="https://img.shields.io/badge/liscense-MIT-blue?style=for-the-badge"/>
   </h1>
-  <h2>
+  <h3>
     An Eve Online Alliance Information Page
-  </h2>
+  </h3>
   <br>
   <details>
     <summary>
