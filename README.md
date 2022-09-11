@@ -7,7 +7,7 @@
                 
         </h1>
         <h3>
-                <br />
+                
                 <img alt="Badge showing the language count" src="https://img.shields.io/github/languages/count/phobiacide/pewgilism.?style=for-the-badge" />
                 <img alt="Badge showing the up/down status of the demo website" src="https://img.shields.io/website?down_color=red&down_message=Down&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fphobiacide.github.io%2Fpewgilism.%2F"/>
                 <img alt="Badge showing the license for the code" src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
