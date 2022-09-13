@@ -15,7 +15,7 @@
   <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="100" height="100">
   
   <!-- PPOJECT TITLE -->
-  <h1 align="center">Pewgilism.</h1>
+  <h1 align="center">Pewgilism.🔫</h1>
   
   <!-- PROJECT SUBTITLE -->
   <h3 align="center">
