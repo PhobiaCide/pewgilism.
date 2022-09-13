@@ -27,14 +27,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
+  <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="100" height="100">
+  <h1 align="center">Pewgilism.</h1>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Landing page prototype/mock-up for an Eve Online Alliance!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -225,16 +221,16 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github.com/PhobiaCide/pewgilism./?style=for-the-badge
-[contributors-url]: https://github.com/PhobiaCide/pewgilism./graphs/contributors
-[forks-shield]: https://img.shields.io/github.com/PhobiaCide/pewgilism./?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github.com/PhobiaCide/pewgilism.?style=for-the-badge
+[contributors-url]: https://github.com/PhobiaCide/pewgilism.
+[forks-shield]: https://img.shields.io/github.com/PhobiaCide/pewgilism.?style=for-the-badge
+[forks-url]: https://github.com/PhobiaCide/pewgilism.
+[stars-shield]: https://img.shields.io/github/stars/PhobiaCide/pewgilism.?style=for-the-badge
 [stars-url]: https://github.com/PhobiaCide/pewgilism./stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/PhobiaCide/pewgilism.?style=for-the-badge
 [issues-url]: https://github.com/PhobiaCide/pewgilism./issues
 [license-shield]: https://img.shields.io/github.com/PhobiaCide/pewgilism./?style=for-the-badge
-[license-url]: https://github.com/PhobiaCide/pewgilism./blob/master/LICENSE.txt
+[license-url]: https://github.com/PhobiaCide/pewgilism./LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
