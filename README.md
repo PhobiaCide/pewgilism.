@@ -1,5 +1,4 @@
 <!-- @format -->
-
 <a name="readme-top"></a>
 
 <!-- HEADER -->
@@ -17,28 +16,28 @@
   <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="100" height="100">
   
   <!-- PPOJECT TITLE -->
-  <h1 align="center">Pewgilism.🔫</h1>
+  <h1 align="center"> 🔫 Pewgilism. </h1>
   
   <!-- PROJECT SUBTITLE -->
   <h3 align="center">
-    A Landing page prototype/mock-up for an Eve Online Alliance!🚀
+    🚀 A Landing page prototype/mock-up for an Eve Online Alliance!
   </h3>
   
   <!-- MAIN LINKS -->
   <p align="center">
     <strong>
-      <a href="https://github.com/PhobiaCide/pewgilism.">Explore the docs </a>
+      <a href="https://github.com/PhobiaCide/pewgilism."> 📚 Explore the docs </a>
       ·
-      <a href="https://phobiacide.github.io/pewgilism./"> View Demo </a>
+      <a href="https://phobiacide.github.io/pewgilism./"> 👀 View Demo </a>
       ·
-      <a href="https://github.com/PhobiaCide/pewgilism./issues"> Report Bug or Suggest Feature</a>
+      <a href="https://github.com/PhobiaCide/pewgilism./issues"> 🐛 Report Bug or Suggest Feature</a>
     </strong>
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary> 📇 Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -64,58 +63,42 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project 🌠
+## ℹ️ About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./pewgilism.screenshot.jpg)
-
-<p>
-This page was made to gain a better understanding of document flow, DOM manipulation, and the relationship between the languages used:
-</p>
-<p>
-This is the first Website I've made in years. No one asked me to do it. I just thought my Eve Online alliance would be a suitable subject for this project. 
-</p>
-<p>
-The project is me, I'm learning, practicing and improving my skills as a programmer/web designer.
-</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+📸 [![Product Name Screen Shot][product-screenshot]](./pewgilism.screenshot.jpg)
 
 <!-- Built With -->
 
-### Built With:
+### 🚧 Built With: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+_This page was made to gain a better understanding of document flow, DOM manipulation, and the relationship between the languages used:_
+
+_This is the first Website I've made in years. No one asked me to do it. I just thought my Eve Online alliance would be a suitable subject for this project._
+
+_The project is me, I'm learning, practicing and improving my skills as a programmer/web designer._
+
+<p align="right">🔗(<a href="#readme-top">back to top</a>)
+</p>
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## 🔰Getting Started
 
-1. Clone the repo
+👥_Just clone the repository to get started editing a copy of this project_... 
 
-```sh
-  git clone https://github.com/PhobiaCide/pewgilism..git
-```
-
-2. Install NPM packages
-
-```sh
-  npm install
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+...👌_Easy peasy_.
 
 <!-- Prerequisites -->
 
-### Prerequisites - None
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### 🚥 Prerequisites 
+ ⚠️ _At least a basic understanding of html/css would be required to do anything useful with this project._
+  
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Installation -->
 
-### Installation
+### 📦 Installation
 
 _Standard html5 Dependencies. Simply clone the repo and open the files in your favorite text editor_
 
@@ -128,69 +111,78 @@ _Standard html5 Dependencies. Simply clone the repo and open the files in your f
    npm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## 💼 Usage
 
 _It would be possible and somewhat simple to replace the content on this site with your own._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
-## Roadmap
+## 📝 Roadmap
 
 - [x] Add README.md
+  - [ ] Add Emojis
+  - [ ] Refine README.md
+  - [ ] Finish README.md
 - [x] Add LICENSE.txt
 - [ ] Set Up Issues
 - [ ] List All Issues
 - [ ] Fix All Issues
 - [ ] Finish Site
 
-See the [open issues](https://github.com/PhobiaCide/pewgilism./issues) for a full list of proposed features (and known issues).
+⚠️_See the_ [open issues](https://github.com/PhobiaCide/pewgilism./issues) _for a full list of proposed features (and known issues)_.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## 👍 Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+💪 _Contributions are what make the open source community such an amazing place to learn, inspire, and create_... 
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+👼 _Any contributions you make are **greatly appreciated**_...
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+💭 _If you have a suggestion that would make this better, please fork the repo and create a pull request_... 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+💬 _You can also simply open an issue with the tag "enhancement"_...
+
+⭐ _Don't forget to give the project a star! Thanks again_!
+
+1. 🍴 Fork the Project
+3. 🎨 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+4. 💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+5. 📌 Push to the Branch (`git push origin feature/AmazingFeature`)
+6. 📂 Open a Pull Request
+
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## License
+## 📜 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+Copyright ©️ 2022 Andrew Amason
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
-## Contact
+## 🌟 Contact
 
-Andrew Amason - aamason86@gmail.com
+📧 email: aamason86@gmail.com
 
-GitHub Profile: [PhobiaCide](https://github.com/PhobiaCide)
+:octocat: GitHub Profile: [PhobiaCide](https://github.com/PhobiaCide)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+## 👏 Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -200,7 +192,7 @@ Use this space to list resources you find helpful and would like to give credit 
 - [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
