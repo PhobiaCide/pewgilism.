@@ -85,9 +85,9 @@ _The project is me, I'm learning, practicing and improving my skills as a progra
 
 ## 🔰Getting Started
 
-👥_Just clone the repository to get started editing a copy of this project_... 
+👥 _Just clone the repository to get started editing a copy of this project_... 
 
-...👌_Easy peasy_.
+...👌 _Easy peasy_.
 
 <!-- Prerequisites -->
 
