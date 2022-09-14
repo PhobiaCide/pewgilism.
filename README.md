@@ -14,17 +14,11 @@
   
   </br>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />
-  
-  </br>
-  
   <!-- PROJECT LOGO -->
   <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="256" height="256">
   
   <!-- PPOJECT TITLE -->
-  <h1 align="center"> 🔫 Pewgilism. </h1>
+  <h1 align="center">🔫 Pewgilism. </h1>
   
   </br>
   
@@ -36,11 +30,11 @@
   <!-- PROJECT LINKS -->
   <p align="center">
     <strong>
-      <a href="https://github.com/PhobiaCide/pewgilism."> 📚 Explore the docs </a>
+      <a href="https://github.com/PhobiaCide/pewgilism.">📚 Explore the docs </a>
       ·
-      <a href="https://phobiacide.github.io/pewgilism./"> 👀 View Demo </a>
+      <a href="https://phobiacide.github.io/pewgilism./">👀 View Demo </a>
       ·
-      <a href="https://github.com/PhobiaCide/pewgilism./issues"> 🐛 Report Bug or Suggest Feature</a>
+      <a href="https://github.com/PhobiaCide/pewgilism./issues">🐛 Report Bug or Suggest Feature</a>
     </strong>
   </p>
 </div>
@@ -48,27 +42,31 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary> 📇Table of Contents</summary>
+  <summary> <h2>📇Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#%E2%84%B9%EF%B8%8F-about-the-project">ℹ️About The Project</a>
+    <li><h3>
+      <a href="#-%E2%84%B9%EF%B8%8F-about-this-project">ℹ️About This Project</a></h3>
       <ul>
-        <li><a href="#built-with">🚧Built With</a></li>
+        <li><h4><a href="#-built-with-----------">🚧 Built With</a></h4></li>
+        <li><h4><a href="#-screenshot-1">📸 Screenshot</a></h4></li>      
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">🚼Getting Started</a>
+    <li><h3>
+      <a href="#-getting-started">🚼 Getting Started</a></h3>
       <ul>
-        <li><a href="#prerequisites">🔰Prerequisites</a></li>
-        <li><a href="#installation">📦Installation</a></li>
+        <li><h4><a href="#-prerequisites-1">🔰 Prerequisites</a></h4></li>
+        <li><h4><a href="#-installation-1">📦 Installation</a></h4></li>
       </ul>
     </li>
-    <li><a href="#usage">💼Usage</a></li>
-    <li><a href="#roadmap">📝Roadmap</a></li>
-    <li><a href="#contributing">👍Contributing</a></li>
-    <li><a href="#license">📜License</a></li>
-    <li><a href="#contact">⭐Contact</a></li>
-    <li><a href="#acknowledgments">👏Acknowledgments</a></li>
+    <li><h3><a href="#-usage-1">💼 Usage</a></h3></li>
+    <li><h3><a href="#-roadmap-1">📝 Roadmap</a></h3></li>
+    <li><h3><a href="#-contributing-1">👍 Contributing</a></h3></li>
+    <ul>
+      <li><h4><a href="#-how-to-contribute-1">❔ How To Contribute</a></h4></li>
+    </ul>
+    <li><h3><a href="#-contact-1">⭐ Contact</a></h3></li>
+    <li><h3><a href="#-acknowledgments-1">👏 Acknowledgments</a></h3></li>
+    <li><h3><a href="#-license-1">📜 License</a></h3></li>  
   </ol>
 </details>
 
@@ -78,32 +76,28 @@
 </br>
 
 <!-- ABOUT THE PROJECT -->
-## ℹ️ About The Project
-
-</br>
-
-<div align="center">
-  <details>
-    <summary>
-     📷 <img src="./init_screenshot.png" alt="Screenshot of the deployment" width="512" height="auto">
-    </summary>
-    📸 <img src="./full_page.png" alt="Screenshot of the deployment" width="512" height="auto">
-  </details>
-</div>
+<a name="about"></a>
+<h2> ℹ️ About This Project</h2>
 
 </br>
 
 <!-- Built With -->
-### 🚧Built With: 
-
+<h3>🚧 Built With: 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="48" height="48" />
+  ·
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="48" height="48" />
+  ·
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />
+</h3>
 </br>
 
+<!--
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 </br>
-
+-->
 - I made this page to gain a better understanding of: 
   1. _Document Flow_ 
   2. _DOM Manipulation_
@@ -118,6 +112,24 @@
 - I'm learning, practicing and improving my skills as a programmer/web designer.
 
 </br>
+
+<!-- SCREENSHOT -->
+<h3>📸 Screenshot</h3>
+<div align="left">
+  <details>
+    <summary>
+      <a name="screenshot"></a>
+      <h4>Click For Full Page View</h4>
+      <img src="./init_screenshot.png" alt="Initail Load Screenshot Of The Deployment">
+    </summary>
+    <img src="./full_page.png" alt="Full Page Screenshot Of The Deployment">
+  </details>
+</div>
+
+
+
+</br>
+</br>
 </br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
@@ -126,22 +138,22 @@
 </br>
 
 <!-- GETTING STARTED -->
-## 🚼Getting Started
+<h2>🚼 Getting Started</h2>
 
 </br>
 
-👥Just clone the repository to get started editing a copy of this project... 
+👥 Just clone the repository to get started editing a copy of this project... 
 
 </br>
 
 <p align="center">
-  ... 👌Easy peasy.
+  ...👌 Easy peasy.
 </p>
 
 </br>
 
 <!-- Prerequisites -->
-### 🔰Prerequisites
+<h3>🔰 Prerequisites</h3>
 
 </br>
 
@@ -150,7 +162,7 @@
 </br>
 
 <!-- Installation -->
-### 📦Installation
+<h3>📦 Installation</h3>
 
 </br>
 
@@ -173,19 +185,21 @@
    
 </br>
 </br>
+</br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <hr>
 </br>
 
-<!-- USAGE EXAMPLES -->
-## 💼Usage
+<!-- USAGE -->
+<h2>💼 Usage</h2>
 
 </br>
 
 _It would be possible and somewhat simple to change the color scheme and replace the content on this site with your own if you happen to like the site layout and features._
 
+</br>
 </br>
 </br>
 
@@ -195,7 +209,7 @@ _It would be possible and somewhat simple to change the color scheme and replace
 </br>
 
 <!-- ROADMAP -->
-## 📝Roadmap
+<h2>📝 Roadmap</h2>
 
 </br>
 
@@ -215,6 +229,7 @@ _It would be possible and somewhat simple to change the color scheme and replace
 
 </br>
 </br>
+</br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,7 +237,7 @@ _It would be possible and somewhat simple to change the color scheme and replace
 </br>
 
 <!-- CONTRIBUTING -->
-## 👍Contributing
+<h2>👍 Contributing</h2>
 
 </br>
 
@@ -238,7 +253,8 @@ _It would be possible and somewhat simple to change the color scheme and replace
 
 </br>
 
-### How To Contribute:
+<!-- HOW TO CONTRIBUTE -->
+<h3>❔ How To Contribute</h3>
 
 </br>
 
@@ -250,21 +266,6 @@ _It would be possible and somewhat simple to change the color scheme and replace
 
 </br>
 </br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
-
-<hr>
-</br>
-
-<!-- LICENSE -->
-## 📜License
-
-</br>
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-Copyright ©️ 2022 Andrew Amason
-
-</br>
 </br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
@@ -273,7 +274,7 @@ Copyright ©️ 2022 Andrew Amason
 </br>
 
 <!-- CONTACT -->
-## 🌟Contact
+<h2>🌟 Contact</h2>
 
 </br>
 
@@ -283,6 +284,7 @@ Copyright ©️ 2022 Andrew Amason
 
 </br>
 </br>
+</br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
@@ -290,7 +292,7 @@ Copyright ©️ 2022 Andrew Amason
 </br>
 
 <!-- ACKNOWLEDGMENTS -->
-## 👏Acknowledgments
+<h2>👏 Acknowledgments</h2>
 
 </br>
 
@@ -301,10 +303,33 @@ Copyright ©️ 2022 Andrew Amason
 
 </br>
 </br>
+</br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
 <hr>
+</br> 
+
+<!-- LICENSE -->
+<h2>📜 License</h2>
+
+</br>
+
+<div align="center">
+Distributed under the <strong>MIT License</strong>. See `LICENSE.txt` for more information.
+</br>
+</br>
+<strong>Copyright ©️ 2022 Andrew Amason</strong>
+</div>
+
+</br>
+</br>
+</br>
+
+<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+
+<hr>
+</br>
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [language-count-shield]: https://img.shields.io/github/languages/count/PhobiaCide/Pewgilism.?style=for-the-badge
