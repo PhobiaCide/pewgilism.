@@ -12,7 +12,7 @@
   [![Issues][issues-shield]][issues-url]
   [![MIT License][license-shield]][license-url]
   
-  </br>
+  <br>
   
   <!-- PROJECT LOGO -->
   <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="256" height="256">
@@ -38,7 +38,6 @@
     </strong>
   </p>
 </div>
-</br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -47,7 +46,7 @@
     <li><h3>
       <a href="#-%E2%84%B9%EF%B8%8F-about-this-project">ℹ️About This Project</a></h3>
       <ul>
-        <li><h4><a href="#-built-with-----------">🚧 Built With</a></h4></li>
+        <li><h4><a href="#-built-with">🚧 Built With</a></h4></li>
         <li><h4><a href="#-screenshot-1">📸 Screenshot</a></h4></li>      
       </ul>
     </li>
@@ -70,51 +69,65 @@
   </ol>
 </details>
 
-</br>
-</br>
 <hr>
-</br>
+<br>
 
 <!-- ABOUT THE PROJECT -->
-<a name="about"></a>
 <h2> ℹ️ About This Project</h2>
 
-</br>
+<p>
+  <ul>
+    <li>
+      <h4>
+        This is the first Website I've made in years. No one asked me to do it. I just thought my Eve Online alliance would be a suitable subject for this project.
+      </h4>
+    </li>
+    <li>
+      <h4>
+        I made this page to gain a better understanding of: 
+      </h4>
+      <ol>
+        <li>
+          <u>
+            Document Flow
+          </u>
+        </li>
+        <li>
+          <u>
+            DOM Manipulation
+          </u>
+        </li>
+        <li>
+          <u>
+            The Relationship Between Languages Used:
+          </u>
+        </li>
+      </ol>
+    </li>
+    <li>
+      <h4>
+        I'm learning, practicing and improving my skills as a programmer/web designer.
+      </h4>
+    </li>
+  </ul>
+</p>
+
+<br>
 
 <!-- Built With -->
-<h3>🚧 Built With: 
-</br>
+<h3>
+  🚧 Built With:
+</h3>
+
+<br>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="64" height="64" />
-  ·
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="64" height="64" />
-  ·
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64" />
 </p>
-</h3>
-</br>
 
-<!--
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-</br>
--->
-- I made this page to gain a better understanding of: 
-  1. _Document Flow_ 
-  2. _DOM Manipulation_
-  3. _The Relationship Between Languages Used_:
-
-</br>
-
-- This is the first Website I've made in years. No one asked me to do it. I just thought my Eve Online alliance would be a suitable subject for this project.
-
-</br>
-
-- I'm learning, practicing and improving my skills as a programmer/web designer.
-
-</br>
+<br>
 
 <!-- SCREENSHOT -->
 <h3>📸 Screenshot</h3>
@@ -129,11 +142,9 @@
   </details>
 </div>
 
-
-
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 <p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
 
