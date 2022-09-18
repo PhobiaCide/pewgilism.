@@ -12,16 +12,12 @@
   [![Issues][issues-shield]][issues-url]
   [![MIT License][license-shield]][license-url]
   
-  <br>
-  
   <!-- PROJECT LOGO -->
   <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="256" height="256">
   
   <!-- PPOJECT TITLE -->
   <h1 align="center">🔫 Pewgilism. </h1>
-  
-  </br>
-  
+
   <!-- PROJECT SUBTITLE -->
   <h3 align="center">
     🚀 A Landing page prototype/mock-up for an Eve Online Alliance!
@@ -30,51 +26,132 @@
   <!-- PROJECT LINKS -->
   <p align="center">
     <strong>
-      <a href="https://github.com/PhobiaCide/pewgilism.">📚 Explore the docs </a>
+      <a href="https://github.com/PhobiaCide/pewgilism./">
+        📚 Explore the docs
+      </a>
       ·
-      <a href="https://phobiacide.github.io/pewgilism./">👀 View Demo </a>
+      <a href="https://phobiacide.github.io/pewgilism./">
+        👀 View Demo
+      </a>
       ·
-      <a href="https://github.com/PhobiaCide/pewgilism./issues">🐛 Report Bug or Suggest Feature</a>
+      <a href="https://github.com/PhobiaCide/pewgilism./issues">
+        🐛 Report Bug or Suggest Feature
+      </a>
     </strong>
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary> <h2>📇Table of Contents</h2></summary>
+  <summary>
+    <h2>
+      📇Table of Contents
+    </h2>
+  </summary>
   <ol>
-    <li><h3>
-      <a href="#-%E2%84%B9%EF%B8%8F-about-this-project">ℹ️About This Project</a></h3>
+    <li>
+      <h3>
+        <a href="#%E2%84%B9%EF%B8%8F-about-this-project">
+          ℹ️ About This Project
+        </a>
+      </h3>
       <ul>
-        <li><h4><a href="#-built-with">🚧 Built With</a></h4></li>
-        <li><h4><a href="#-screenshot-1">📸 Screenshot</a></h4></li>      
+        <li>
+          <h4>
+            <a href="#---built-with">
+              🚧 Built With
+            </a>
+          </h4>
+        </li>
+        <li>
+          <h4>
+            <a href="#-screenshot">
+              📸 Screenshot
+            </a>
+          </h4>
+        </li>      
       </ul>
     </li>
-    <li><h3>
-      <a href="#-getting-started">🚼 Getting Started</a></h3>
+    <li>
+      <h3>
+        <a href="#-getting-started">
+          🚼 Getting Started
+        </a>
+      </h3>
       <ul>
-        <li><h4><a href="#-prerequisites-1">🔰 Prerequisites</a></h4></li>
-        <li><h4><a href="#-installation-1">📦 Installation</a></h4></li>
+        <li>
+          <h4>
+            <a href="#-prerequisites">
+              🔰 Prerequisites
+            </a>
+          </h4>
+        </li>
+        <li>
+          <h4>
+            <a href="#-installation">
+              📦 Installation
+            </a>
+          </h4>
+        </li>
       </ul>
     </li>
-    <li><h3><a href="#-usage-1">💼 Usage</a></h3></li>
-    <li><h3><a href="#-roadmap-1">📝 Roadmap</a></h3></li>
-    <li><h3><a href="#-contributing-1">👍 Contributing</a></h3></li>
+    <li>
+      <h3>
+        <a href="#-usage">
+          💼 Usage
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a href="#-roadmap">
+          📝 Roadmap
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a href="#-contributing">
+          👍 Contributing
+        </a>
+      </h3>
+    </li>
     <ul>
-      <li><h4><a href="#-how-to-contribute-1">❔ How To Contribute</a></h4></li>
+      <li>
+        <h4>
+          <a href="#-how-to-contribute">
+            ❔ How To Contribute
+          </a>
+        </h4>
+      </li>
     </ul>
-    <li><h3><a href="#-contact-1">⭐ Contact</a></h3></li>
-    <li><h3><a href="#-acknowledgments-1">👏 Acknowledgments</a></h3></li>
-    <li><h3><a href="#-license-1">📜 License</a></h3></li>  
+    <li>
+      <h3>
+        <a href="#-contact">
+          ⭐ Contact
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a href="#-acknowledgments">
+          👏 Acknowledgments
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a href="#-license">
+          📜 License
+        </a>
+      </h3>
+    </li>  
   </ol>
 </details>
-
 <hr>
-<br>
 
 <!-- ABOUT THE PROJECT -->
-<h2> ℹ️ About This Project</h2>
-
+<h2>ℹ️ About This Project</h2>
 <p>
   <ul>
     <li>
@@ -111,22 +188,17 @@
     </li>
   </ul>
 </p>
-
 <br>
 
 <!-- Built With -->
 <h3>
   🚧 Built With:
 </h3>
-
-<br>
-
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64" />
 </p>
-
 <br>
 
 <!-- SCREENSHOT -->
@@ -142,49 +214,52 @@
   </details>
 </div>
 
-<br>
-<br>
-<br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <hr>
-</br>
 
 <!-- GETTING STARTED -->
 <h2>🚼 Getting Started</h2>
 
-</br>
-
-👥 Just clone the repository to get started editing a copy of this project... 
-
-</br>
-
-<p align="center">
-  ...👌 Easy peasy.
-</p>
-
-</br>
-
 <!-- Prerequisites -->
 <h3>🔰 Prerequisites</h3>
-
-</br>
-
- ⚠️ _At least a basic understanding of html/css would be required to do anything useful with this project._
- 
-</br>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp; 👥 Just clone the repository to get started editing a copy of this project... 
+  <p align="center">
+    ...👌 Easy peasy.
+  </p>
+</p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+⚠️ <u>At least a basic understanding of html/css would be required to do anything useful with this project.</u>
+<br>
 
 <!-- Installation -->
 <h3>📦 Installation</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<ul>
+  <li>
+    <u>
+      Standard html5 Dependencies.
+    </u>
+  </li>
+  <li>
+    <u>
+      Should work in any modern browser(untested).
+    </u>
+  </li>
+  <li>
+    <u>
+      Simply clone the repo and open the files in your favorite text editor.
+    </u>
+  </li>
+</ul>
 
-</br>
-
-- _Standard html5 Dependencies_.
-- _Should work in any modern browser(untested)_.
-- _Simply clone the repo and open the files in your favorite text editor_.
-
-</br>
+<br>
 
 1. Clone the repo
    ```sh
@@ -196,36 +271,32 @@
    ```sh
    npm install
    ```
-   
-</br>
-</br>
-</br>
 
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <hr>
-</br>
 
 <!-- USAGE -->
 <h2>💼 Usage</h2>
 
-</br>
+<i>
+  It would be possible and somewhat simple to change the color scheme and replace the content on this site with your own if you happen to like the site layout and features.
+</i>
 
-_It would be possible and somewhat simple to change the color scheme and replace the content on this site with your own if you happen to like the site layout and features._
-
-</br>
-</br>
-</br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <hr>
-</br>
 
 <!-- ROADMAP -->
 <h2>📝 Roadmap</h2>
-
-</br>
 
 - [x] Add README.md
   - [ ] Add Emojis
@@ -237,89 +308,148 @@ _It would be possible and somewhat simple to change the color scheme and replace
 - [ ] Fix All Issues
 - [ ] Finish Site
 
-</br>
+<br>
 
-⚠️ _See_ [open issues](https://github.com/PhobiaCide/pewgilism./issues) _for a full list of proposed features (and known issues)_.
+⚠️
+<i>
+  See
+</i>
+<a href="https://github.com/PhobiaCide/pewgilism./issues">
+  Open Issues
+</a>
+<i>
+  for a full list of proposed features (and known issues).
+<i>
 
-</br>
-</br>
-</br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <hr>
-</br>
 
 <!-- CONTRIBUTING -->
 <h2>👍 Contributing</h2>
 
-</br>
-
-💪 _Contributions are what make the open source community such an amazing place to learn, inspire, and create_... 
-
-👼 _Any contributions you make are **greatly appreciated**_...
-
-💭 _If you have a suggestion that would make this better, please fork the repo and create a pull request_... 
-
-💬 _You can also simply open an issue with the tag "enhancement"_...
-
-⭐ _Don't forget to give the project a star! Thanks again_!
-
-</br>
+<br>
+<ul>
+  <li>
+    💪 
+    <i>
+      Contributions are what make the open source community such an amazing place to learn, inspire, and create...
+    </i>
+  </li>
+  <li>
+    👼
+    <i>Any contributions you make are 
+      <strong>
+        greatly appreciated
+      </strong>
+    </i>
+    ...
+  </li>
+  <li>
+    💭
+    <i>
+      If you have a suggestion that would make this better, please fork the repo and create a pull request
+    </i>
+    ... 
+  </li>
+  <li>
+    💬
+    <i>
+      You can also simply open an issue with the tag "enhancement"
+    </i>
+    ...
+  </li>
+  <li>
+    ⭐
+    <i>
+      Don't forget to give the project a star!
+      <strong>
+        Thanks again
+      </strong>
+    </i>
+    !
+  </li>  
+</ul>
 
 <!-- HOW TO CONTRIBUTE -->
 <h3>❔ How To Contribute</h3>
-
-</br>
-
-1. 🍴 Fork the Project
-3. 🎨 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-4. 💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-5. 📌 Push to the Branch (`git push origin feature/AmazingFeature`)
-6. 📂 Open a Pull Request
-
-</br>
-</br>
-</br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
-
-<hr>
-</br>
+<ol>
+  <li>
+    🍴 Fork the Project
+  </li>
+  <li>
+    🎨 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+  </li>
+  <li>
+    💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+  </li>
+  <li>
+    📌 Push to the Branch (`git push origin feature/AmazingFeature`)
+  </li>
+  <li>
+    📂 Open a Pull Request
+  </li>
+</ol>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <!-- CONTACT -->
 <h2>🌟 Contact</h2>
+<ul>
+  <li>
+    📧 email: aamason86@gmail.com
+  </li>
+  <li>
+    :octocat: GitHub Profile: 
+    <a href="https://github.com/PhobiaCide">
+      PhobiaCide
+    </a>
+  </li>
+</ul>
 
-</br>
-
-- 📧 email: aamason86@gmail.com
-
-- :octocat: GitHub Profile: [PhobiaCide](https://github.com/PhobiaCide)
-
-</br>
-</br>
-</br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
-
-<hr>
-</br>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <!-- ACKNOWLEDGMENTS -->
 <h2>👏 Acknowledgments</h2>
-
-</br>
-
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-
-</br>
-</br>
-</br>
-
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+<ul>
+  <li>
+    <a href="https://www.webpagefx.com/tools/emoji-cheat-sheet>
+      GitHub Emoji Cheat Sheet
+    </a>
+  </li>
+  <li>
+    <a href="https://shields.io">
+      Img Shields
+    </a>
+  </li>
+  <li>
+    <a href="https://pages.github.com">
+      GitHub Pages
+    </a>
+  </li>
+  <li>
+    <a href=""https://fontawesome.com">
+      Font Awesome
+    </a>
+  </li>
+<ul>
+  
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <hr>
 </br> 
@@ -340,7 +470,11 @@ Distributed under the <strong>MIT License</strong>. See `LICENSE.txt` for more i
 </br>
 </br>
 
-<p align="right">🔗(<a href="#readme-top">back to top</a>)</p>
+<h3 align="right">
+  <a href="#readme-top">
+    &uarr; back to top
+  </a>
+</h3>
 
 <hr>
 </br>
