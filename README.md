@@ -1,8 +1,5 @@
 <!-- @format -->
-<<<<<<< HEAD
 
-=======
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
 <a name="readme-top"></a>
 
 <!-- HEADER -->
@@ -20,19 +17,12 @@
   <img src="https://images.evetech.net/alliances/99011193/logo" alt="Logo" width="256" height="256">
   
   <!-- PPOJECT TITLE -->
-<<<<<<< HEAD
-  <h1 align="center">Pewgilism.🔫</h1>
-  
-  <!-- PROJECT SUBTITLE -->
-  <h3 align="center">
-    A Landing page prototype/mock-up for an Eve Online Alliance!🚀
-=======
+
   <h1 align="center">🔫 Pewgilism. </h1>
 
   <!-- PROJECT SUBTITLE -->
   <h3 align="center">
     🚀 A Landing page prototype/mock-up for an Eve Online Alliance!
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
   </h3>
   
   <!-- PROJECT LINKS -->
@@ -202,32 +192,6 @@
 </p>
 <br>
 
-<<<<<<< HEAD
-## About The Project 🌠
-
-[![Product Name Screen Shot][product-screenshot]](./pewgilism.screenshot.jpg)
-
-<p>
-This page was made to gain a better understanding of document flow, DOM manipulation, and the relationship between the languages used:
-</p>
-<p>
-This is the first Website I've made in years. No one asked me to do it. I just thought my Eve Online alliance would be a suitable subject for this project. 
-</p>
-<p>
-The project is me, I'm learning, practicing and improving my skills as a programmer/web designer.
-</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Built With -->
-
-### Built With:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
 <!-- Built With -->
 <h3>
   🚧 Built With:
@@ -258,9 +222,6 @@ The project is me, I'm learning, practicing and improving my skills as a program
   </a>
 </h3>
 
-<hr>
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
-
 <!-- GETTING STARTED -->
 <h2>🚼 Getting Started</h2>
 
@@ -277,34 +238,7 @@ The project is me, I'm learning, practicing and improving my skills as a program
 ⚠️ <u>At least a basic understanding of html/css would be required to do anything useful with this project.</u>
 <br>
 
-<<<<<<< HEAD
-1. Clone the repo
 
-```sh
-  git clone https://github.com/PhobiaCide/pewgilism..git
-```
-
-2. Install NPM packages
-
-  ```sh
-  npm install
-  ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Prerequisites -->
-
-### Prerequisites - None
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Installation -->
-
-### Installation
-
-_Standard html5 Dependencies. Simply clone the repo and open the files in your favorite text editor_
-
-=======
 <!-- Installation -->
 <h3>📦 Installation</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -328,16 +262,15 @@ _Standard html5 Dependencies. Simply clone the repo and open the files in your f
 
 <br>
 
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
+
 1. Clone the repo
    ```sh
    git clone https://github.com/PhobiaCide/pewgilism..git
    ```
-<<<<<<< HEAD
-=======
+
 </br>
 
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
+
 2. Install NPM packages
    ```sh
    npm install
@@ -349,14 +282,10 @@ _Standard html5 Dependencies. Simply clone the repo and open the files in your f
   </a>
 </h3>
 
-<hr>
-
 <!-- USAGE -->
 <h2>💼 Usage</h2>
 
-<<<<<<< HEAD
-_It would be possible and somewhat simple to replace the content on this site with your own._
-=======
+
 <i>
   It would be possible and somewhat simple to change the color scheme and replace the content on this site with your own if you happen to like the site layout and features.
 </i>
@@ -366,9 +295,6 @@ _It would be possible and somewhat simple to replace the content on this site wi
     &uarr; back to top
   </a>
 </h3>
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
-
-<hr>
 
 <!-- ROADMAP -->
 <h2>📝 Roadmap</h2>
@@ -383,15 +309,7 @@ _It would be possible and somewhat simple to replace the content on this site wi
 - [ ] Fix All Issues
 - [ ] Finish Site
 
-<<<<<<< HEAD
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Set up issues
-
-- [ ] Finish Site
-=======
 <br>
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
 
 ⚠️
 <i>
@@ -402,15 +320,13 @@ _It would be possible and somewhat simple to replace the content on this site wi
 </a>
 <i>
   for a full list of proposed features (and known issues).
-<i>
+</i>
 
 <h3 align="right">
   <a href="#readme-top">
     &uarr; back to top
   </a>
 </h3>
-
-<hr>
 
 <!-- CONTRIBUTING -->
 <h2>👍 Contributing</h2>
@@ -420,7 +336,9 @@ _It would be possible and somewhat simple to replace the content on this site wi
   <li>
     💪 
     <i>
-      Contributions are what make the open source community such an amazing place to learn, inspire, and create...
+      <strong>
+        Contributions are what make the open source community such an amazing place to learn, inspire, and create...
+      </strong>
     </i>
   </li>
   <li>
@@ -434,27 +352,50 @@ _It would be possible and somewhat simple to replace the content on this site wi
   </li>
   <li>
     💭
+    If you have a 
+    <strong>
+      suggestion 
+    </strong>
+    that would make this 
+    <strong>
+      better,
+    </strong>
     <i>
-      If you have a suggestion that would make this better, please fork the repo and create a pull request
+      please 
+      <strong>
+        fork the repo 
+      </strong>
+      and
+      <strong>
+        create a pull request
+      </strong>
     </i>
     ... 
   </li>
   <li>
     💬
+    You can also simply 
+    <strong>
+      open an issue
+    </strong>
+    with the tag 
     <i>
-      You can also simply open an issue with the tag "enhancement"
+      "enhancement"
     </i>
     ...
   </li>
   <li>
     ⭐
+    <strong>
+      Don't forget 
+    </strong>
+    to 
     <i>
-      Don't forget to give the project a star!
-      <strong>
-        Thanks again
-      </strong>
+      give the project a star!
     </i>
-    !
+    <strong>
+      Thanks again!
+    </strong>
   </li>  
 </ul>
 
@@ -465,13 +406,23 @@ _It would be possible and somewhat simple to replace the content on this site wi
     🍴 Fork the Project
   </li>
   <li>
-    🎨 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+    🎨 Create your Feature Branch: 
+    
+    git checkout -b feature/AmazingFeature
+    
   </li>
   <li>
-    💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+    💾 Commit your Changes 
+    
+    git commit -m 'Add some AmazingFeature'
+    
   </li>
   <li>
-    📌 Push to the Branch (`git push origin feature/AmazingFeature`)
+    📌 Push to the Branch: 
+    
+    git push origin feature/AmazingFeature
+    
+    
   </li>
   <li>
     📂 Open a Pull Request
@@ -487,7 +438,10 @@ _It would be possible and somewhat simple to replace the content on this site wi
 <h2>🌟 Contact</h2>
 <ul>
   <li>
-    📧 email: aamason86@gmail.com
+    📧 email: 
+    <a href="mailto:aamason86@gmail.com">
+      aamason86@gmail.com
+    </a>
   </li>
   <li>
     :octocat: GitHub Profile: 
@@ -497,21 +451,11 @@ _It would be possible and somewhat simple to replace the content on this site wi
   </li>
 </ul>
 
-<<<<<<< HEAD
-## Contact
-
-Andrew Amason - aamason86@gmail.com
-
-GitHub Profile: [PhobiaCide](https://github.com/PhobiaCide)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
 <h3 align="right">
   <a href="#readme-top">
     &uarr; back to top
   </a>
 </h3>
->>>>>>> 42814f0041fb97209b1a9b8f987d56aff908c7a0
 
 <!-- ACKNOWLEDGMENTS -->
 <h2>👏 Acknowledgments</h2>
@@ -543,14 +487,12 @@ GitHub Profile: [PhobiaCide](https://github.com/PhobiaCide)
     &uarr; back to top
   </a>
 </h3>
-
-<hr>
-</br> 
+<br> 
 
 <!-- LICENSE -->
 <h2>📜 License</h2>
 
-</br>
+<br>
 
 <div align="center">
 Distributed under the <strong>MIT License</strong>. See `LICENSE.txt` for more information.
